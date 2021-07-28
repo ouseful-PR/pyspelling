@@ -5,3 +5,4 @@ pyyaml
 wcmatch>=6.0.3
 lxml
 html5lib
+nbformat
